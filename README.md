@@ -17,7 +17,7 @@
 </p>
 
 <h1 align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/banner.png" />
+  Happy
 </h1>
 
 <h4 align="center"> 
@@ -74,7 +74,6 @@ O layout da aplicação está disponível no Figma:
 ## 🚀 Como executar o projeto
 
 Este projeto é divido em três partes:
-
 1. Backend (pasta server) <a href="/">baixe aqui</a>
 2. Frontend (pasta web)
 3. Mobile (pasta mobile) <a href="/">baixe aqui</a>
@@ -116,7 +115,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ## 🐱‍👤Autor
 
  <img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/58194578?s=460&u=2cce4cfe93c827e033d632f223d61ffebc496c00&v=4" width="100px;" alt=""/>
- <br />
  <sub><b>Rodrigo junior 🚀</b></sub>
  <br />
 
