@@ -16,6 +16,10 @@
   </a>
 </p>
 
+<h1 align="center">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/banner.png" />
+</h1>
+
 <h4 align="center"> 
 	🚧  Happy 🧍‍♀️🧍‍♂️ Concluído 🚀 🚧
 </h4>
@@ -40,6 +44,7 @@ O NLW é uma experiência online com muito conteúdo prático, desafios e hacks 
 ---
 
 ## ⚙️Funcionalidades
+
 - [x] Pessoas físicas podem fazer buscas na plataforma
 - [x] Instituições de Orfanatos podem se cadastras na plataforma
 - [x] nome da entidade, sobre, instruções, fotos, horario de funcionamento e se funciona final de semana
@@ -69,6 +74,7 @@ O layout da aplicação está disponível no Figma:
 ## 🚀 Como executar o projeto
 
 Este projeto é divido em três partes:
+
 1. Backend (pasta server) <a href="/">baixe aqui</a>
 2. Frontend (pasta web)
 3. Mobile (pasta mobile) <a href="/">baixe aqui</a>
@@ -78,7 +84,7 @@ Este projeto é divido em três partes:
 ### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/).
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
 ---
@@ -87,15 +93,15 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-#### **Website**  ([React](https://reactjs.org/)  +  [TypeScript](https://www.typescriptlang.org/))
+#### **Website** ([React](https://reactjs.org/) + [TypeScript](https://www.typescriptlang.org/))
 
--   **[React Router Dom](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom)**
--   **[React Icons](https://react-icons.github.io/react-icons/)**
--   **[Axios](https://github.com/axios/axios)**
--   **[Leaflet](https://react-leaflet.js.org/en/)**
--   **[React Leaflet](https://react-leaflet.js.org/)**
+- **[React Router Dom](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom)**
+- **[React Icons](https://react-icons.github.io/react-icons/)**
+- **[Axios](https://github.com/axios/axios)**
+- **[Leaflet](https://react-leaflet.js.org/en/)**
+- **[React Leaflet](https://react-leaflet.js.org/)**
 
-> Veja o arquivo  [package.json](https://github.com/RodrigoJuniorLiyah/Happy---Rocketseat/blob/master/package.json)
+> Veja o arquivo [package.json](https://github.com/RodrigoJuniorLiyah/Happy---Rocketseat/blob/master/package.json)
 
 ## 💪 Como contribuir para o projeto
 
@@ -103,7 +109,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 2. Crie uma nova branch com as suas alterações: `git checkout -b my-feature`
 3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: My new feature"`
 4. Envie as suas alterações: `git push origin my-feature`
-> Caso tenha alguma dúvida confira este [guia de como contribuir no GitHub](./CONTRIBUTING.md)
+   > Caso tenha alguma dúvida confira este [guia de como contribuir no GitHub](./CONTRIBUTING.md)
 
 ---
 
@@ -114,7 +120,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
  <sub><b>Rodrigo junior 🚀</b></sub>
  <br />
 
- [![Twitter Badge](https://img.shields.io/badge/-@Legend_Attack-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tgmarinho)](https://twitter.com/Legend_Attack) [![Linkedin Badge](https://img.shields.io/badge/-Rodrigo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-junior/)](https://www.linkedin.com/in/rodrigo-junior-969184166/) 
+[![Twitter Badge](https://img.shields.io/badge/-@Legend_Attack-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tgmarinho)](https://twitter.com/Legend_Attack) [![Linkedin Badge](https://img.shields.io/badge/-Rodrigo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-junior/)](https://www.linkedin.com/in/rodrigo-junior-969184166/)
 [![Gmail Badge](https://img.shields.io/badge/-rodrigohtxpro@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigohtxpro@gmail.com)](mailto:rodrigohtxpro@gmail.com)
 
 ---
