@@ -63,10 +63,10 @@ O layout da aplicação está disponível no Figma:
 ### Web
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;flex-direction: column">
-<img alt="NLW" title="#NextLevelWeek" src="./assets/banner.png" height="400">
-<img alt="mapa" title="mapa Happy" src="./assets/mapa.png" height="400">
-<img alt="cadastro" title="cadastro Happy" src="./assets/cadastro.gif" height="400">
-<img alt="mapa" title="mapa Happy" src="./assets/mapagif.gif" height="400">
+<img alt="NLW" title="#NextLevelWeek" src="./assets/banner.png">
+<img alt="mapa" title="mapa Happy" src="./assets/mapa.png">
+<img alt="cadastro" title="cadastro Happy" src="./assets/cadastro.gif">
+<img alt="mapa" title="mapa Happy" src="./assets/mapagif.gif">
 </p>
 
 ---
@@ -76,7 +76,7 @@ O layout da aplicação está disponível no Figma:
 Este projeto é divido em três partes:
 1. Backend (pasta server) <a href="https://github.com/RodrigoJuniorLiyah/Happy--Backend/archive/master.zip">baixe aqui</a>
 2. Frontend (pasta web) <a href="https://github.com/RodrigoJuniorLiyah/Happy--Web---Rocketseat/archive/master.zip">baixe aqui</a>
-3. Mobile (pasta mobile) <a href="https://github.com/RodrigoJuniorLiyah/Happy--Mobile---Rocketseat/archive/master.zip">baixe aqui</a>
+3. Mobile (pasta mobile) <a href="https://github.com/RodrigoJuniorLiyah/Happy--Mobile---Rocketseat/archive/main.zip">baixe aqui</a>
 
 💡Tanto o Frontend quanto o Mobile precisam que o Backend esteja sendo executado para funcionar.
 
