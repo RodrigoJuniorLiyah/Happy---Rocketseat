@@ -43,7 +43,7 @@ O NLW é uma experiência online com muito conteúdo prático, desafios e hacks 
 
 ---
 
-## ⚙️Funcionalidades
+## ⚙️ Funcionalidades
 
 - [x] Pessoas físicas podem fazer buscas na plataforma
 - [x] Instituições de Orfanatos podem se cadastras na plataforma
@@ -112,7 +112,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
   > Caso tenha alguma dúvida confira este [guia de como contribuir no GitHub](./CONTRIBUTING.md)
 ---
 
-## 🐱‍👤Autor
+## 🐱‍👤 Autor
 
  <img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/58194578?s=460&u=2cce4cfe93c827e033d632f223d61ffebc496c00&v=4" width="100px;"/>
  <sub><b>Rodrigo junior 🚀</b></sub>
